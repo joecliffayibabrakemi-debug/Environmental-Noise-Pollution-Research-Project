@@ -13,6 +13,7 @@ Five market locations were considered:
 * Swali Market — Foodstuff Section
 * Swali Market — Electrical Parts
 * Otuoke Market
+<img width="899" height="550" alt="Screenshot 2026-09-29 230044" src="https://github.com/user-attachments/assets/9d13f21c-b55a-4f85-9fa0-14a810d5e6e9" />
 
 The research involved field measurements using a **TES-1350A sound level meter** and GPS, followed by computational analysis of the recorded results.
 
@@ -108,27 +109,7 @@ The research recommended measures including:
 
 ## Project Files
 
-```text
-environmental-noise-pollution-yenagoa/
-│
-├── README.md
-│
-├── data/
-│   └── market_noise_levels.csv
-│
-├── src/
-│   └── analyze_noise.py
-│
-├── outputs/
-│   └── noise_pollution_by_market.png
-│
-└── docs/
-    ├── methodology.md
-    ├── data_dictionary.md
-    └── source.md
-```
-
----
+<img width="899" height="550" alt="Screenshot 2026-09-29 230044" src="https://github.com/user-attachments/assets/6137085e-de64-4f1e-8972-f245754eeeb8" />
 
 ## Academic Context
 
